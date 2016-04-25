@@ -1,0 +1,85 @@
+body {
+	background-color: #0A111B;
+	font-family: 'Gentium Basic', serif;
+	color: white;
+	font-weight: 550;
+}
+
+a {
+	/*Typography Declarations*/
+	text-decoration: none;
+	color: #9D9280;
+}
+
+a:hover {
+	color: #9D9280;
+	opacity: 0.5;
+}
+
+.banner h3 {
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: .20em;
+	font-weight: 800;
+	font-size: 1.55em;
+	color: #9D9280;
+	margin-top: -4.5rem;
+	margin-left: 16rem;
+}
+
+.banner {
+	width: 50rem;
+	height: 17rem;
+	margin: 0 auto;
+	padding-top: 20rem;
+	padding-bottom: 3rem;
+
+}
+
+.about-me {
+	width: 45rem;
+	margin: 5rem auto;
+	font-size: 1.35rem;
+}
+
+.projects {
+	width:45rem;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.projects  h1 {
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: .20em;
+	font-size: 3rem;
+	text-align: center;
+	color: #9D9280;
+}
+
+ul {
+	list-style: none;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+
+
+.img-box {
+	width: 500px;
+	border-style: solid;
+	border-width: 1rem;
+	border-color: #575D68;
+	margin-top: 3rem;
+}
+
+.content-footer {
+  color: white;
+  font-family: Arial Black, Gadget, sans-serif;
+  text-align: center;
+  padding-top: 4em;
+  padding-bottom: 1em;
+  background-color: #11161E;
+}
+
+.social > li {
+	display: inline-block;
+}
